@@ -60,6 +60,13 @@ a {
     padding: 0px 0px;
 }
 
+#banner {
+    margin: 0px auto;
+    width: 1000px;
+    height: 340px;
+    background: url(../img/img03.png) no-repeat left bottom;
+}
+
 /* Logo */
 
 #logo {
@@ -431,12 +438,6 @@ a {
     color: #FFFFFF;
 }
 
-#banner {
-    margin: 0px auto;
-    width: 1000px;
-    height: 340px;
-    background: url(../img/img03.png) no-repeat left bottom;
-}
 
 .list-style1 {
     margin: 0px;
