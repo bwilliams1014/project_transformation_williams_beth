@@ -299,6 +299,7 @@ a {
 #footer {
     font-family: 'Abel', sans-serif;
     background: #050505 url(../img/img01.jpg) repeat;
+    clear: both;
 }
 
 #footer p {
