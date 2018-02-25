@@ -51,9 +51,9 @@ a {
 
 /* Header */
 
-/* #header-wrapper {
+#header-wrapper {
     overflow: hidden;
-} */
+} 
 
 #header {
     width: 100%;
@@ -65,13 +65,14 @@ a {
     margin: 0px auto;
     width: 100%;
     height: auto;
-    background: url(../img/img03.png) no-repeat left bottom;
+    background: url(../img/img03.png) no-repeat center bottom;
 }
 
 #banner img {
     margin: 0px auto;
     width:100%;
     height: auto;
+    margin-bottom: 35px;
 }
 
 /* Logo */
