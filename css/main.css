@@ -342,3 +342,11 @@ a {
         width: calc(100% / 5);
      }        
 }
+
+/* media query min-width 800 */
+
+@media (min-width: 800px) {
+    #wrapper {
+        width: 90%;
+    }
+}
