@@ -261,7 +261,6 @@ a {
 }
 
 #sidebar li li {
-    line-height: 40px;
     border-bottom: 1px solid #E7EBED;
     margin: 0px 0px;
     border-left: none;
@@ -281,7 +280,6 @@ a {
 }
 
 #sidebar h2 {
-    height: 38px;
     padding: 0px 0px 30px 0px;
     letter-spacing: -.5px;
     font-size: 1.8em;
@@ -320,3 +318,27 @@ a {
     color: #bfbfbf;
 }
 
+/* media query min-width 600 */
+
+@media (min-width: 600px) {
+    #sidebar {
+        width: 29%;
+        float: left;
+    }
+
+    #sidebar ul {
+        line-height: 120%;
+    }
+    #sidebar li li {
+        margin: 0 10px 10px 0;
+        text-align: right;
+    }
+    #content {
+        width: 66%;
+        float: right;
+    }
+    #menu li {
+        display: inline-block;
+        width: calc(100% / 5);
+     }        
+}
