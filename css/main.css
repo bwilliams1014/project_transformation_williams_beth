@@ -38,16 +38,15 @@ a {
     color: #5E5E5E;
 }
 
+.hidden {
+    visibility: hidden;
+}
+
 #wrapper {
     background: #FFFFFF url(../img/img05.jpg) repeat;
     width: 95%;
     margin: 0 auto;
 }
-
-/* .container {
-    width: 100%;
-    margin: 0px auto;
-} */
 
 /* Header */
 
