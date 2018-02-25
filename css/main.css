@@ -213,10 +213,10 @@ a {
 
 .more {
     display: block;
-
+    float: left;
     width: 88px;
     padding: 5px 5px;
-    margin-right: 10px;
+    margin-left: 10px;
     background: #222222;
     color: #FFFFFF;
     text-align: center;
@@ -225,9 +225,10 @@ a {
 
 .comments {
     display: block;
-
+    float: right;
     width: 88px;
     padding: 5px 5px;
+    margin-right: 10px;
     background: #222222;
     color: #FFFFFF;
     text-align: center;
