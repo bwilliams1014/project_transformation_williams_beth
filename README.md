@@ -1,11 +1,10 @@
 # Responsive Transformation
 * Beth Williams
 * 2/25/2018
-
 * [Github Repo link](https://github.com/bwilliams1014/project_transformation_williams_beth)
-* [Website link]( http://bethwilliams.org/UF-project-responsive-transformation/)
-* [W3C validation](https://validator.w3.org/nu/?doc=http%3A%2F%2Fbethwilliams.org%2FUF-project-responsive-transformation%2F )
-* [HTML5 outliner](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fbethwilliams.org%2FUF-project-responsive-transformation%2F )
+* [Website link](http://bethwilliams.org/project_transformation_williams_beth/index.html)
+* [W3C validation](https://validator.w3.org/nu/?doc=http%3A%2F%2Fbethwilliams.org%2Fproject_transformation_williams_beth%2Findex.html)
+* [HTML5 outliner](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fbethwilliams.org%2Fproject_transformation_williams_beth%2Findex.html)
 
 ## Resources
 
